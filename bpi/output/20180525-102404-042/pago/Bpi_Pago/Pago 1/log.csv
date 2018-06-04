@@ -1,0 +1,30 @@
+Step;Description;Expected Result;Obtained Result;Duration;Evidence
+1;Navigate to url: "https://piloto.bancaporinternetuat.interbank.com.pe/bpi-web-app/#/login";The page was successfully loaded;The page was successfully loaded;00:00:06;evidence/001_navigate.png
+2;Type '4110740000080168' in the field 'creditcard';The field was successfully filled;The field was successfully filled;00:00:00;evidence/002_sendKeys.png
+3;Click in '//*[@id='app']/div[2]/div/div[2]/div[1]/div/div[1]';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/003_click.png
+4;Click in '//*[@id='app']/div[1]/div/ul/li[*]/a/div/div[contains(text(), 'CE')]';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/004_click.png
+5;Type '352317' in the field 'idnumber';The field was successfully filled;The field was successfully filled;00:00:00;evidence/005_sendKeys.png
+6;Click in 'valueToShow';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/006_click.png
+7;Click in '//*[@id='app']/div[2]/div/div[4]/div/a[21]';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/007_click.png
+8;Click in '//*[@id='app']/div[2]/div/div[4]/div/a[2]';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/008_click.png
+9;Click in '//*[@id='app']/div[2]/div/div[4]/div/a[2]';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/009_click.png
+10;Click in '//*[@id='app']/div[2]/div/div[4]/div/a[2]';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/0010_click.png
+11;Click in '//*[@id='app']/div[2]/div/div[4]/div/a[2]';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/0011_click.png
+12;Click in '//*[@id='app']/div[2]/div/div[4]/div/a[2]';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/0012_click.png
+13;Click in '//*[@id='app']/div[2]/div/div[4]/div/a[2]';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/0013_click.png
+14;Click in '//*[@id='app']/div[2]/div/div[6]/a';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/0014_click.png
+15;Get the Text from '//*[@id='app']/div[3]/div/div/div/div/div[3]/p';The text is successfully retrieved;The text is successfully retrieved;00:00:00;evidence/0015_getText.png
+16;Do the action: isElementPresent(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/0016_isElementPresent.png
+17;Click in '//*[@id='app']/div[3]/div/div/div/div/div[4]/div/div[1]/button';The object was successfully clicked;The object was successfully clicked;00:00:00;evidence/0017_click.png
+18;Click in '//div[@id='typePayment']/label[*]/span[1][contains(text(),'Pago de institución o empresas')]';The object was successfully clicked;The object was not successfully clicked;00:00:10;evidence/0018_click.png
+19;Click in '//*[@id='app']/div/div/section/div/div/div[3]/div[2]/div[1]/div/div/div[1]/div[2]/div/div/div[1]/div/div/div[3]/div/button';The object was successfully clicked;The object could not be clicked;00:00:00;N/A
+20;Click in 'companySlc';The object was successfully clicked;The object could not be clicked;00:00:00;N/A
+21;Click in '//*[@id='app']/div/div/section/div/div/div[3]/div[2]/div[1]/div/div/div[1]/div[2]/div/div/div[2]/div/div/div/div/div[1]/div[1]/div/div[1]/ul/li[contains(text(), 'A & G')]';The object was successfully clicked;The object could not be clicked;00:00:00;N/A
+22;Click in 'serviceSlc';The object was successfully clicked;The object could not be clicked;00:00:00;N/A
+23;Click in '//*[@id='app']/div/div/section/div/div/div[3]/div[2]/div[1]/div/div/div[1]/div[2]/div/div/div[2]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[contains(text(), 'Recaudación')]';The object was successfully clicked;The object could not be clicked;00:00:00;N/A
+24;Type 'Prueba' in the field 'dynamicLabel';The field was successfully filled;The field could not be filled;00:00:00;N/A
+25;Click in '//*[@id='app']/div/div/section/div/div/div[3]/div[2]/div[1]/div/div/div[1]/div[2]/div/div/div[2]/div/div/div/div/div[1]/div[4]/button';The object was successfully clicked;The object could not be clicked;00:00:00;N/A
+26;Click in 'exchangeSlc';The object was successfully clicked;The object could not be clicked;00:00:00;N/A
+27;Click in '//*[@id='app']/div/div/section/div/div/div[3]/div[2]/div[1]/div/div/div[1]/div[2]/div/div/div[2]/div/div/div/div/div[1]/div[5]/div/div[1]/div/div[1]/div/div[1]/ul/li[contains(text(), 'Soles')]';The object was successfully clicked;The object could not be clicked;00:00:00;N/A
+28;Type '1' in the field 'inpAmountLoan';The field was successfully filled;The field could not be filled;00:00:00;N/A
+29;Do the action: deleteCookies(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action could not be executed;00:00:00;N/A
