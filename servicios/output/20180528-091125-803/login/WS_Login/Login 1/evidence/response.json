@@ -1,0 +1,30 @@
+{
+  "responseCode" : 0,
+  "responseDescription" : "Se obtuvo respuesta del microservicio",
+  "body" : {
+    "session" : {
+      "user" : {
+        "userId" : 5000007116,
+        "userName" : "TILSA@SUPERRITO.COM",
+        "person" : {
+          "email" : "TILSA@SUPERRITO.COM",
+          "firstName" : "Tilsa",
+          "lastName" : "Lozano",
+          "photo" : {
+            "photoUrlOrigin" : null,
+            "photoUrlThumbnail" : null
+          }
+        },
+        "commerce" : null,
+        "store" : null,
+        "isAbleToPay" : true,
+        "isPasswordTemp" : false,
+        "registerStep" : 3
+      },
+      "token" : {
+        "tokenMicroservice" : "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI1MDAwMDA3MTE2IiwiYWNjZXNzIjoibW9iaWxlIiwiYXBwbGljYXRpb24iOiIxIiwiY3JlYXRlZCI6MTUyNzUxNjY5NDM3MiwiaWQiOiI1MDAwMDA3MTE2IiwiZXhwIjoxNTI3NTE2ODE0LCJwbGF0Zm9ybSI6IjEiLCJkZXZpY2VUb2tlbiI6ImRyU2wtblVHdjZZOkFQQTkxYkVsSktqekczcE9faldQOWN0cjE2Uk1pbTNKNmN5NXJrbkdtSUwwajQtdHdrMDVGcXd2VjNtSzFBWG5Qb0NlNVhxeWVmTG9XN0tQVmQ0cXVwNHRQRWVDTnJIM1Z3dUUyZWJUc212OHhEci1YcHgtY2NLdkRtaDlqU1hlazhRelZxVUU3TXhPIn0.PLX1GkXHu4PRhxIYPV0q7ECioD7Ac99CClLdpyumLIxzE__nCkg_B18CtHaHi8hdVswnRGDkhvGp0hajLuW6Jw",
+        "tokenFirebase" : "eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJodHRwczovL2lkZW50aXR5dG9vbGtpdC5nb29nbGVhcGlzLmNvbS9nb29nbGUuaWRlbnRpdHkuaWRlbnRpdHl0b29sa2l0LnYxLklkZW50aXR5VG9vbGtpdCIsImNsYWltcyI6eyJhY2Nlc3MiOiJtb2JpbGUiLCJhcHBsaWNhdGlvbiI6IjEiLCJwbGF0Zm9ybSI6IjEiLCJkZXZpY2VUb2tlbiI6ImRyU2wtblVHdjZZOkFQQTkxYkVsSktqekczcE9faldQOWN0cjE2Uk1pbTNKNmN5NXJrbkdtSUwwajQtdHdrMDVGcXd2VjNtSzFBWG5Qb0NlNVhxeWVmTG9XN0tQVmQ0cXVwNHRQRWVDTnJIM1Z3dUUyZWJUc212OHhEci1YcHgtY2NLdkRtaDlqU1hlazhRelZxVUU3TXhPIn0sImV4cCI6MTUyNzUyMDI5NCwiaWF0IjoxNTI3NTE2Njk0LCJpc3MiOiJmaXJlYmFzZS1hZG1pbnNkay1yY2NtMEBpYmstc3BlY3RydW0uaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20iLCJzdWIiOiJmaXJlYmFzZS1hZG1pbnNkay1yY2NtMEBpYmstc3BlY3RydW0uaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20iLCJ1aWQiOiI1MDAwMDA3MTE2In0.bTs1X7cHYkxpejhXVZAcmRd2mckspp7EAUWOfBG1JyX9NtMTJ28s3M-FJqs6VZYTaBQC6TkvZ2oKTxmjNwk4_Ak4dRGMtpZ6ABKm24ppWnuX9qj-WMh7CIpnBLXVZ_PF_R5uZ8JfGW3K8UF4lOEfxMNqMgu4zhnptKsy0E0wFEsjOPtQqZtPYYEAsbwCqFC3jDev4V1hZdr_Dp4jf_Kb4ehva0phNzyUGCYJinR_RGNV3D-p7aIhI7M4sK1jwEIDwT8oClf9zFk8-zM8xxkUMhgn8Amas90KEfZ_DqqTABI_-VtRYTou6AH83M8IUu_f8WkxK2IydWqjYR5Wlniy3A"
+      }
+    }
+  }
+}

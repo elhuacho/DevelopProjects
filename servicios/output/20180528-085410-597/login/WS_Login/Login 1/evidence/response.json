@@ -1,0 +1,30 @@
+{
+  "responseCode" : 0,
+  "responseDescription" : "Se obtuvo respuesta del microservicio",
+  "body" : {
+    "session" : {
+      "user" : {
+        "userId" : 5000007116,
+        "userName" : "TILSA@SUPERRITO.COM",
+        "person" : {
+          "email" : "TILSA@SUPERRITO.COM",
+          "firstName" : "Tilsa",
+          "lastName" : "Lozano",
+          "photo" : {
+            "photoUrlOrigin" : null,
+            "photoUrlThumbnail" : null
+          }
+        },
+        "commerce" : null,
+        "store" : null,
+        "isAbleToPay" : true,
+        "isPasswordTemp" : false,
+        "registerStep" : 3
+      },
+      "token" : {
+        "tokenMicroservice" : "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI1MDAwMDA3MTE2IiwiYWNjZXNzIjoibW9iaWxlIiwiYXBwbGljYXRpb24iOiIxIiwiY3JlYXRlZCI6MTUyNzUxNTY1OTEzNCwiaWQiOiI1MDAwMDA3MTE2IiwiZXhwIjoxNTI3NTE1Nzc5LCJwbGF0Zm9ybSI6IjEiLCJkZXZpY2VUb2tlbiI6ImRyU2wtblVHdjZZOkFQQTkxYkVsSktqekczcE9faldQOWN0cjE2Uk1pbTNKNmN5NXJrbkdtSUwwajQtdHdrMDVGcXd2VjNtSzFBWG5Qb0NlNVhxeWVmTG9XN0tQVmQ0cXVwNHRQRWVDTnJIM1Z3dUUyZWJUc212OHhEci1YcHgtY2NLdkRtaDlqU1hlazhRelZxVUU3TXhPIn0.VorYZJTc9sMomUHbP_3l9i7XT_sj-sTKrDl5OQAWykyGxyNXoLkaJ5tLHh5ZWAsZnEOk3eqzNDTk6cW9r794BA",
+        "tokenFirebase" : "eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJodHRwczovL2lkZW50aXR5dG9vbGtpdC5nb29nbGVhcGlzLmNvbS9nb29nbGUuaWRlbnRpdHkuaWRlbnRpdHl0b29sa2l0LnYxLklkZW50aXR5VG9vbGtpdCIsImNsYWltcyI6eyJhY2Nlc3MiOiJtb2JpbGUiLCJhcHBsaWNhdGlvbiI6IjEiLCJwbGF0Zm9ybSI6IjEiLCJkZXZpY2VUb2tlbiI6ImRyU2wtblVHdjZZOkFQQTkxYkVsSktqekczcE9faldQOWN0cjE2Uk1pbTNKNmN5NXJrbkdtSUwwajQtdHdrMDVGcXd2VjNtSzFBWG5Qb0NlNVhxeWVmTG9XN0tQVmQ0cXVwNHRQRWVDTnJIM1Z3dUUyZWJUc212OHhEci1YcHgtY2NLdkRtaDlqU1hlazhRelZxVUU3TXhPIn0sImV4cCI6MTUyNzUxOTI1OSwiaWF0IjoxNTI3NTE1NjU5LCJpc3MiOiJmaXJlYmFzZS1hZG1pbnNkay1yY2NtMEBpYmstc3BlY3RydW0uaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20iLCJzdWIiOiJmaXJlYmFzZS1hZG1pbnNkay1yY2NtMEBpYmstc3BlY3RydW0uaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20iLCJ1aWQiOiI1MDAwMDA3MTE2In0.KvcdkjmxWapjUFj8M2HQEAGKxcdQ306o64RKhxXyKuYypvEGMITtbTUN7W69AYfrky5a1ZD1ePbifqPulGTriKVACD6fb7Zyc8SAFtsdUgyH6PxKYoIbd0tnUTahE7UZKFM5diYWOVsgU-IAUuo88rf3RFAG1IbVKnvCySxDI6i_1CfRgteV4c2F_G0CiHZ7tWsXXg923KGHTZTAkfLE5l0Wp_fAsIeRgb1ST9QWXZC20GiUhY3KT8iLS1fLo9ZWFGYCsTLqP9Do_9xrSA8w3ulc9ge_TbiC6Vm9SZVDL_E5NOApn5s7QAENGbFPGRaqHg5ajtl7qRvVWj8MRI1S5A"
+      }
+    }
+  }
+}
